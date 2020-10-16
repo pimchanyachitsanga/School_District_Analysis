@@ -49,4 +49,5 @@ The average math and reading scores remain unchange when shown based on school t
 ## Summary
 After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs to only analyze the scores from tenth to twelfth grade student due to academic dishonesty, the average scores are slightly changed. The average math score decreased from 83.41 to 83.35 while the average reading score increased from 83.85 to 83.90. The analysis also shown that the passing percentage of math and reading scores both decreased. After replacing the ninth grade scores, the overall passing percentage decreased from 90.95% to 90.63%. 
 
+We can further improve this analysis by testing if the changes are statistically significant to ensure accurate interpretation.
 
