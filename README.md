@@ -30,9 +30,12 @@ District summary in current analysis:
 ### How does replacing the ninth-grade scores affect the following:
 
 #### Math and reading scores by grade
-Math and reading score remain unchanged in the previous and current analysis. The scores by grade are illustrated below in order: Math and Reading
- 
+Math and reading score remain unchanged in the previous and current analysis. 
+
+Math scores by grade:
  ![Math_by_grade](Resources/Math_by_grade.png)
+ 
+Reading scores by grade:
  ![Reading_by_grade](Resources/Reading_by_grade.png)
 
 #### Scores by school spending
