@@ -12,18 +12,41 @@ Data Source: clean_students_complete.csv Software: Python 3.7.2, Jupyter Noteboo
 
 ## Results
 
-How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
-Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+### How is the school and the district summary affected?
+Both the school and district summaries remain relatively unchanged with the replacement of the ninth grade scores for Thomas High School. The district's overall passing rate in percentage went down by around 0.01% while Thomas High School overall passing rate in percentage also went down by around 0.03%. The ranking of Thomas High School remain unchanged.
 
+School summary in previous analysis:
+![TopSchool_old](Resources/TopSchool_old.png)
 
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-Summary:
+School summary in current analysis:
+![TopSchool_new](Resources/TopSchool_new.png)
 
-There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
+District summary in previous analysis:
+![District_old](Resources/District_old.png)
+
+District summary in current analysis:
+![District_new](Resources/District_new.png)
+
+### How does replacing the ninth-grade scores affect the following:
+
+#### Math and reading scores by grade
+Math and reading score remain unchanged in the previous and current analysis. The scores by grade are illustrated below in order: Math and Reading
+ ![Math_by_grade](Resources/Math_by_grade.png)
+ ![Reading_by_grade](Resources/Reading_by_grade.png)
+
+#### Scores by school spending
+Thompson high school is in the $630-$644 spending range per student and the average math and reading scores remained the same. Scores by school spending is shown below:
+ ![Passing_by_budget](Resources/Passing_by_budget.png)
+
+#### Scores by school size
+The average math and reading scores remain unchange when shown based on school size. Scores by school size analysis is shown below:
+![School_size](Resources/School_size.png)
+
+#### Scores by school type
+The average math and reading scores remain unchange when shown based on school type. Scores by school type analysis is shown below:
+![School_size](Resources/School_size.png)
+
+## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+ ![Reading_Scores_By_Grade_New](Resources/Reading_Scores_By_Grade_New.png)
+
