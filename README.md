@@ -15,16 +15,16 @@ Data Source: clean_students_complete.csv Software: Python 3.7.2, Jupyter Noteboo
 ### How is the school and the district summary affected?
 Both the school and district summaries remain relatively unchanged with the replacement of the ninth grade scores for Thomas High School. The district's overall passing rate in percentage went down by around 0.01% while Thomas High School overall passing rate in percentage also went down by around 0.03%. The ranking of Thomas High School remain unchanged.
 
-School summary in previous analysis:
+* School summary in previous analysis:
 ![TopSchool_old](Resources/TopSchool_old.png)
 
-School summary in current analysis:
+* School summary in current analysis:
 ![TopSchool_new](Resources/TopSchool_new.png)
 
-District summary in previous analysis:
+* District summary in previous analysis:
 ![District_old](Resources/District_old.png)
 
-District summary in current analysis:
+* District summary in current analysis:
 ![District_new](Resources/District_new.png)
 
 ### How does replacing the ninth-grade scores affect the following:
@@ -32,11 +32,11 @@ District summary in current analysis:
 #### Math and reading scores by grade
 Math and reading score remain unchanged in the previous and current analysis. 
 
-*Math scores by grade:
+* Math scores by grade:
 
  ![Math_by_grade](Resources/Math_by_grade.png)
  
-*Reading scores by grade:
+* Reading scores by grade:
 
  ![Reading_by_grade](Resources/Reading_by_grade.png)
 
