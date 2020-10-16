@@ -41,15 +41,15 @@ Math and reading score remain unchanged in the previous and current analysis.
  ![Reading_by_grade](Resources/Reading_by_grade.png)
 
 #### Scores by school spending
-Thompson high school is in the $630-$644 spending range per student and the average math and reading scores remained the same. Scores by school spending is shown below:
+* Thompson high school is in the $630-$644 spending range per student and the average math and reading scores remained the same. Scores by school spending is shown below:
  ![Passing_by_budget](Resources/Passing_by_budget.png)
 
 #### Scores by school size
-The average math and reading scores remain unchange when shown based on school size. Scores by school size analysis is shown below:
+* The average math and reading scores remain unchange when shown based on school size. Scores by school size analysis is shown below:
 ![School_size](Resources/School_size.png)
 
 #### Scores by school type
-The average math and reading scores remain unchange when shown based on school type. Scores by school type analysis is shown below:
+* The average math and reading scores remain unchange when shown based on school type. Scores by school type analysis is shown below:
 ![School_size](Resources/School_size.png)
 
 ## Summary
